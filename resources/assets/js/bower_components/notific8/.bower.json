@@ -1,0 +1,42 @@
+{
+  "name": "notific8",
+  "version": "4.3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willsteinmetz/notific8.git"
+  },
+  "authors": [
+    "Will Steinmetz <willsteinmetz@users.noreply.github.com>"
+  ],
+  "description": "Flexible and themeable notification plug-in initially inspired by the notifications introduced in Windows 8.",
+  "main": [
+    "dist/notific8.js",
+    "dist/notific8.css"
+  ],
+  "keywords": [
+    "javascript",
+    "jquery",
+    "css",
+    "sass",
+    "jquery-plugin"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/willsteinmetz/notific8",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "4.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.3.0",
+    "commit": "ae71468eab7d7358b8149e6000a853f02a83a759"
+  },
+  "_source": "https://github.com/ralivue/notific8.git",
+  "_target": "^4.3.0",
+  "_originalSource": "notific8",
+  "_direct": true
+}
